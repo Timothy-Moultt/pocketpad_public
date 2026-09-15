@@ -1,0 +1,10 @@
+{
+  "android": {
+    "latestStableBuild": 3,
+    "minRequiredBuild": 0,
+    "version": "1.2.0",
+    "releaseNotes": "Release 1.2.0 build 3.",
+    "downloadLink": "https://github.com/Timothy-Moultt/pocketpad_public/releases/download/v1.2.0+3/app-release.apk",
+    "sha256": "fcaa8d3699772ba7d7ab141e59b2c4c45a74977d70fa92957dcf9492105cb92e"
+  }
+}
