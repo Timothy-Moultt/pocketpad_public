@@ -8,9 +8,9 @@
     "sha256": "08573fa727780920db9cc2db940ab8d84b163be57f9402f545d51f39632ba946"
   },
   "web": {
-    "latestStableBuild": 4,
+    "latestStableBuild": 5,
     "minRequiredBuild": 0,
-    "version": "2.0.0",
-    "releaseNotes": "Release 2.0.0 build 4."
+    "version": "2.0.1",
+    "releaseNotes": "Release 2.0.1 build 5."
   }
 }
