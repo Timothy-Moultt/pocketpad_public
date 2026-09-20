@@ -1,11 +1,11 @@
 {
   "android": {
-    "latestStableBuild": 5,
+    "latestStableBuild": 7,
     "minRequiredBuild": 0,
-    "version": "2.0.1",
-    "releaseNotes": "Release 2.0.1 build 5.",
-    "downloadLink": "https://github.com/Timothy-Moultt/pocketpad_public/releases/download/v2.0.1+5/app-release.apk",
-    "sha256": "08573fa727780920db9cc2db940ab8d84b163be57f9402f545d51f39632ba946"
+    "version": "3.0.0",
+    "releaseNotes": "Release 3.0.0 build 7.",
+    "downloadLink": "https://github.com/Timothy-Moultt/pocketpad_public/releases/download/v3.0.0+7/app-release.apk",
+    "sha256": "aecad3a17e270a478555f3ce339a9d6148bb3db135aeec04e6d15f3e0c22a579"
   },
   "web": {
     "latestStableBuild": 5,
